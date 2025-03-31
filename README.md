@@ -26,7 +26,7 @@ Understanding the complex dynamics of video conversations is critical in today's
 # Citation
 > @inproceedings{stefanidis2025gnn,
 >   title={GNN and LLM Insights: Multimodal Cues and Gender Disparities in Video Conversations},
->   author={Stefanidis, Dimosthenis and Pallis, George and Dikaiakos, Marios and Nicolaou, Nicos},
+>   author={Dimosthenis Stefanidis, George Pallis, Marios D. Dikaiakos, and Nicos Nicolaou},
 >   booktitle={Proceedings of the International Conference on Web and Social Media (ICWSM)},
 >   year={2025}
 > }
