@@ -1,0 +1,863 @@
+pitch_id	WITHOUT_gender_Prediction	WITH_gender_Prediction	isFemale	Real_Received_Offer	keywords
+S01E01P01	1	1	0	1	high sales,strong demand,clear market interest,scalable product,profitable business model
+S01E01P02	0	0	0	0	invasive surgery,health risks,investor discomfort,ethical concerns,practicality issues
+S01E01P03	0	0	0	0	unclear revenue model,high initial cost,dependency on ad sales,complex implementation
+S01E01P05	0	1	0	1	unclear differentiation,existing successful business,high equity ask,investor concerns about new venture viability.
+S01E02P01	0	0	0	0	limited market penetration,low sales volume,lack of trade show success,highly competitive market,unproven business model
+S01E02P02	0	0	0	1	installation complexity,consumer inconvenience,scalability concerns,market adoption challenges
+S01E02P05	1	1	0	1	education,innovative teaching tool,copyright ownership,nationwide market potential
+S01E03P02	1	1	0	0	environmental impact,innovative recycling,unique product,market potential,reasonable valuation.
+S01E03P04	0	0	0	0	limited sales,prototype stage,high valuation,unproven market demand,high risk.
+S01E03P05	0	0	0	1	high valuation,niche market,product durability concerns,demonstration clarity
+S01E04P01	0	0	0	1	low sales figures,high risk,unclear scalability,competitive market,investor concerns
+S01E04P03	0	0	0	0	no existing orders,high risk,novelty item,unproven market demand,significant personal investment without sales.
+S01E04P04	0	0	0	1	niche market,unclear revenue model,product vs. system confusion,investor concerns unaddressed
+S01E05P01	0	0	0	1	lack of personal use,prototype stage,unclear market strategy,health concerns,unclear pitch and demonstration effectiveness.
+S01E05P03	0	1	0	0	niche market,personal story,limited experience,regional success
+S01E05P05	0	1	0	1	saturated market,unclear differentiation,investor concerns,financial clarity needed,high competition in wellness tech
+S01E06P01	1	0	0	1	customization,personalization,health trend,engaging presentation,clear value proposition"
+S01E06P02	0	1	0	0	niche market,novelty item,limited appeal,scalability concerns
+S01E06P05	0	1	0	1	niche market,early stage,high valuation,limited traction,competitive industry
+S01E07P02	0	0	0	0	entertainment value,high risk,niche market,location cost
+S01E07P04	1	0	0	1	unique product,gluten-free,large market potential,interest from major competitor,provisional patent
+S01E08P01	1	1	0	1	innovative solution,strong market potential,proven traction,scalable business model,appealing to investor interests.
+S01E08P03	0	0	0	0	low sales,high competition risk,scalability concerns,lack of innovation (non-patentable product)
+S01E08P04	1	1	0	0	fashion industry experience,profitable,international presence,strong retail partnerships,appealing product,reasonable valuation.
+S01E09P01	0	0	0	1	saturated market,lack of unique selling proposition,high competition,unclear distribution strategy,investor concerns unaddressed
+S01E09P03	0	0	0	0	high investment ask,niche market,complex technology,unclear demonstration impact
+S01E10P02	0	0	0	1	high equity offer,control relinquishment,product uniqueness unclear,investor skepticism,early stage
+S01E10P05	1	1	0	1	innovative product,market validation through sales,media attention,unique design,no marketing spend yet successful sales.
+S01E11P01	0	0	0	1	niche market,unclear differentiation,existing successful business,investor confusion,valuation concerns
+S01E11P03	0	0	0	1	niche market,high equity ask,limited appeal,gender-specific product,potential design and practicality issues.
+S01E11P04	0	1	0	1	saturated market,unclear revenue model,compliance risks,high competition
+S01E12P03	0	0	0	0	niche market,limited sales,lack of business experience,unclear financials
+S01E12P05	0	0	0	0	low sales,high competition,early stage,unclear financial projections,sustainability concerns.
+S01E13P01	0	0	0	0	low sales,limited differentiation,early stage,high competition in eco-friendly apparel.
+S01E14P02	0	0	0	0	low daily revenue,high product cost,unclear scalability,limited investor appeal.
+S01E14P03	0	0	0	1	niche market,prototype stage,unclear market demand,novelty factor,competition in sweetener market
+S01E15P02	0	0	0	0	lack of focus,multiple unrelated products,unclear business model,investor confusion.
+S01E15P04	0	0	0	1	niche market,patent pending,early stage,limited proof of concept,high valuation
+S02E01P01	1	1	0	1	innovative product,proven market demand,retail partnership with nordstrom,strong sales growth,scalable business model.
+S02E01P03	0	0	0	0	high valuation,low sales,narrow margins,competitive market
+S02E01P04	1	1	0	1	innovative product,large market potential,existing sales and distribution,premium niche,investor interest in unique consumer goods.
+S02E02P02	0	1	0	0	niche product,novelty item,limited market potential,scalability concerns,prototype stage,investment size vs. return potential
+S02E02P03	0	0	0	0	niche market,limited appeal,high production cost,safety concerns,competitive market
+S02E02P04	1	0	0	1	innovative product,proven effectiveness,substantial pre-market order,clear market need,health sector appeal
+S02E03P02	0	0	0	0	overpromising,lack of clarity,unrealistic claims,entertainment over substance
+S02E03P04	1	1	0	1	unique product,demonstrated sales,patent concern addressed,high market potential,engaging pitch
+S02E04P02	0	0	0	0	niche market,limited shelf life,unclear competitive advantage,small investment ask,lack of detailed business model and financials.
+S02E04P03	0	0	0	1	niche market,limited product diversity,early stage,unclear financials,high equity ask
+S02E04P04	0	0	0	1	unclear value proposition,novelty item,limited market appeal,high valuation concern
+S02E05P04	0	0	0	1	no sales,prototype stage,patent pending,niche market,entertainment value
+S02E06P01	0	0	0	0	niche market,unclear presentation,limited appeal,potential hygiene concerns,investor skepticism.
+S02E06P02	0	0	0	1	disrespectful tone,lack of clarity,unprofessional,high equity demand,unclear business model
+S02E06P04	1	1	0	1	unique entertainment concept,proven franchise model,national presence,high engagement product,scalable business.
+S02E07P01	1	1	0	1	innovative product,strong sales,unique technology,sustainability,entertainment value
+S02E07P02	0	0	0	0	niche market,novelty product,limited appeal,uncertain scalability,entertainment value high but business viability questionable.
+S02E07P04	1	1	0	1	lifesaving product,clear demonstration,experienced entrepreneur,large market potential,strong emotional appeal
+S02E08P03	0	0	0	1	high equity ask,niche market,unclear mass market appeal"
+S03E01P01	1	1	0	1	innovative product,solves common problem,unique design,demonstrated marketing creativity,environmental appeal
+S03E01P03	0	1	0	0	niche market,high cost,scalability concerns,limited appeal
+S03E01P04	1	1	0	1	unique service,nightlife market,proven revenue in miami,scalable model,entertainment value,addresses real problem
+S03E02P01	0	0	0	1	unclear pitch,low professionalism,niche market,lack of business model clarity,entertainment value not aligned with investment seriousness.
+S03E02P02	0	0	0	1	lack of detailed financials,high equity offer,unclear market potential,overemphasis on personal selling history,lack of demonstrated business scalability.
+S03E02P03	0	0	0	0	entertainment saturation,high investment ask,unclear financials,niche market,execution risk
+S03E03P01	1	1	0	1	innovative product,large market potential,entertainment value,strong profit margin,patented technology.
+S03E03P02	0	0	0	1	niche product,limited market appeal,low sales figures,retail challenges,novelty item
+S03E03P03	0	0	0	0	unclear pitch,early stage,niche market,prototype phase,high equity ask.
+S03E04P04	1	1	0	1	innovative solution,large market,entertainment value,patent pending"
+S03E05P03	1	1	0	1	unique product,strong sales growth,celebrity endorsement (oprah),appealing to luxury market,experienced in market trends.
+S03E06P01	1	1	0	0	innovative,patented technology,market need,simplified assembly,broad application potential
+S03E06P03	0	0	0	0	skeptical,health claims,scientific validity,entertainment value,product differentiation
+S03E06P04	0	0	0	1	niche market,product differentiation unclear,potential scalability issues,lack of demonstrated sales,high valuation concern
+S03E07P01	0	0	0	1	unprofessional pitch,lack of focus on business fundamentals,inappropriate comments,unclear market research,entertainment over substance.
+S03E07P03	0	0	0	0	unclear pitch,complex personal story,lack of focus,technical explanation needed,market potential unclear,investment size for equity offered.
+S03E07P04	1	1	0	1	innovative product,large market potential,licensing opportunities,patented technology,clear pitch.
+S03E08P01	0	0	0	0	unclear pitch,confusing presentation,niche market,lack of financial details,unclear business model
+S03E08P02	0	0	0	1	low sales since 2009,unclear business growth,reliance on personal funds,limited market penetration.
+S03E08P03	0	0	0	0	niche market,limited scalability,novelty concept,short operational history,potential legal and hr complexities.
+S03E09P01	1	1	0	1	growing market,high demand,proven sales,appealing product,direct-to-consumer model
+S03E09P03	1	1	0	0	innovative product,large market (wine consumers),clear problem and solution,engaging presentation,reasonable valuation.
+S03E09P04	0	1	0	1	high valuation,early stage,niche market,entertainment gimmick,lack of financial details.
+S03E10P01	1	1	0	0	innovative product,customization trend,scalable business model,patented technology,broad market appeal
+S03E10P02	0	0	0	0	high equity ask,majority control,unclear financials,niche market,packaging concerns.
+S03E10P03	0	0	0	0	niche market,high competition,unclear financials,novelty product,specific dietary concern
+S03E11P02	1	1	0	0	innovative product,patent pending,strong sales growth,full-time commitment,unique technology
+S03E11P03	0	0	0	0	unrealistic technology,unclear explanation,lack of credible financials,entertainment over substance.
+S03E11P04	1	1	0	1	high sales growth,proven demand,previous interest,unique product,entertainment value.
+S03E13P01	1	0	0	1	niche market,unique product,existing distribution,large industry potential,clear problem and solution,demonstrated interest
+S03E13P02	1	1	0	0	innovative product,proven entrepreneur,high market potential,entertainment value,previous success with rollerblades
+S03E13P04	0	0	0	1	niche market,limited sales history,high valuation,uncertain scalability
+S03E14P02	0	0	0	1	non-traditional business,lack of clear business model,high risk,entertainment industry volatility,inexperienced entrepreneur.
+S03E14P03	0	0	0	1	minimal sales,early stage,high competition in fashion industry,unproven market demand
+S03E14P04	0	1	0	1	entertainment value,lack of detailed business model,unclear market differentiation,insufficient financial details.
+S03E15P01	0	0	0	0	niche market,controversial branding,unclear financials,potential pr issues,limited appeal
+S03E15P02	0	0	0	1	zero sales,highly competitive market,lack of clear business strategy,early stage,high risk
+S03E15P04	1	1	0	1	innovative product,large market potential,technology integration,control and security features,strong pitch engagement.
+S04E01P01	0	0	0	1	no sales,unclear business model,early stage,technology not developed,high risk.
+S04E01P02	0	0	0	1	unclear pitch,novelty item,limited market potential,lack of detailed financials
+S04E01P03	0	0	0	0	safety concerns,unconventional method,liability issues,unclear market validation,investor discomfort
+S04E02P02	0	0	0	0	niche market,outdated product (dvd),controversial pitch approach,lack of digital integration,limited scalability
+S04E02P04	0	0	0	1	ethics,controversy,investor image concerns"
+S04E03P02	0	0	0	1	niche product,limited appeal,high risk,retail politics,uncertain scalability
+S04E03P04	0	0	0	1	unclear pitch,lack of focus,entertainment over substance,missing financial details,unprofessional presentation
+S04E04P02	0	0	0	0	unclear product details,lack of preparation,insufficient market research,high valuation
+S04E04P03	0	0	0	1	niche market,unclear mass appeal,potential manufacturing and scalability concerns,novelty item,high equity ask
+S04E04P04	0	0	0	0	high valuation,crowded market,existing solutions,unclear differentiation,technical issues during demo.
+S04E05P02	0	0	0	0	high caffeine content,unclear market appeal,potential health concerns,limited sales history,product taste issues
+S04E05P04	0	1	0	1	product differentiation,market saturation,taste issues,investor skepticism,unclear financials
+S04E06P01	0	0	0	1	niche market,high logistics cost,limited scalability,investor fit,unclear competitive advantage
+S04E06P02	0	0	0	0	unclear presentation,lack of professionalism,insufficient business details,entertainment over substance.
+S04E07P01	1	1	0	1	innovative product,clear demonstration,scalable market potential,engaging presentation.
+S04E07P03	1	1	0	1	innovative product,high entertainment value,clear demonstration,strong engagement with investors,technology appeal,market potential in urban mobility.
+S04E07P04	0	0	0	0	unclear pitch,niche product,lack of financial details,potential market size concerns,presentation style.
+S04E08P02	0	0	0	0	niche market,unpleasant attractant,limited appeal,potential hygiene concerns,investor skepticism
+S04E08P03	1	1	0	1	innovative product,existing large retailer interest,scalable solution,strong market potential,clear demonstration of demand.
+S04E09P01	0	0	0	1	incomplete pitch,lack of problem and solution,missing business model,insufficient market potential details.
+S04E09P02	0	1	0	0	niche market,limited scalability,unclear financials,entertainment value moderate
+S04E09P03	1	1	0	0	innovative,real estate,proprietary algorithm,large market potential,investor interest,high engagement pitch
+S04E10P02	0	0	0	0	niche market,limited scalability,high operational costs,regulatory concerns,seasonal business
+S04E10P03	0	0	0	0	niche market,low subscriber count,early stage,unproven demand,limited appeal
+S04E10P04	1	1	0	1	unique product,military background,strong narrative,health and wellness market,emotional appeal
+S04E11P03	0	0	0	1	niche market,high cost,limited appeal,logistical challenges,seasonal business
+S04E12P01	0	0	0	1	niche market,seasonal demand,one-time use product,high equity ask
+S04E12P02	0	0	0	0	niche market,novelty product,unclear mass appeal,high investment risk,entertainment value high but practicality questionable
+S04E13P01	1	1	0	1	innovative product,common problem,clear solution,demonstration,market potential
+S04E13P04	1	1	0	1	innovative product,strong market appeal,demonstrated traction,scalable solution,interactive pitch
+S04E14P03	0	0	0	0	high development cost,unclear financial investment details,technical concerns unanswered,niche market.
+S04E15P02	1	1	0	1	unique product,health alternative,established market presence,major league endorsements,large target markets
+S04E15P03	0	0	0	0	100% stake,royalty model,lack of control,investor concerns,previous licensing deal issues.
+S04E16P02	0	0	0	1	niche market,high investment ask,operational scalability,food industry risks,investor interest in product category.
+S04E17P02	1	1	0	1	innovative product,niche market,experienced founders,clear problem and solution,appealing equity offer
+S04E17P04	0	1	0	1	saturated market,novelty product,lack of financial details,high valuation,informal presentation style
+S04E18P01	0	0	0	1	early stage,high valuation,limited track record,competitive market
+S04E18P03	1	1	0	0	innovative solution,large market,clear demonstration,scalable technology,entertainment value
+S04E19P02	0	1	0	1	incomplete pitch,lack of clear business model,high risk,personal anecdote,insufficient data
+S04E19P03	0	0	0	0	niche market,high competition,unclear differentiation,financial risk,insurance complexities
+S04E19P04	1	1	0	1	innovative product,utility patent,enforceable ip,market potential,clear revenue streams,investor interest
+S04E20P01	1	1	0	1	universal problem,patented solution,safety enhancement,market potential,reasonable valuation
+S04E20P02	0	0	0	0	niche market,unclear business model,environmental focus,lack of broad appeal,high risk.
+S04E20P04	1	1	0	1	innovative,easy-to-use,clear demonstration,high entertainment value,large market potential
+S04E21P01	0	0	0	1	niche product,unclear market demand,presentation style,lack of professionalism,potential investor relations issues.
+S04E21P02	1	1	0	0	established business,high-quality product,scalable model,strong personal story,appealing food industry sector.
+S04E21P03	0	0	0	0	unclear pitch,product ambiguity,limited visibility concern,no retail presence,low sales volume
+S04E21P04	1	1	0	1	innovative product,environmental impact,clear demonstration,health and wellness market,reasonable valuation
+S04E22P01	0	0	0	1	safety concerns,product liability,unclear market validation,novelty item,limited appeal
+S04E22P03	1	1	0	0	innovative technology,renewable energy,patented,high market potential,unique product.
+S04E22P04	0	0	0	1	saturated market,minor innovation,unclear distribution strategy,competitive advantage questionable
+S04E23P02	0	0	0	0	animal welfare concerns,unclear presentation,potential public backlash,ethical issues,investor risk aversion
+S04E23P03	1	1	0	0	premium product,solid sales figures,clear financials,growth potential,lifestyle brand appeal
+S04E24P02	0	0	0	0	non-traditional business,high investment,entertainment industry risk,lack of clear financials
+S04E24P04	0	0	0	1	saturated market,lack of innovation,high valuation,entertainment-focused pitch,asset-heavy model
+S04E25P01	0	0	0	0	niche market,limited appeal,unclear differentiation,low sales volume,inexperienced entrepreneur.
+S04E25P02	0	0	0	0	competitive market,lack of unique value proposition,confusing pitch,established competitors (fedex),pricing clarity needed,investor skepticism evident
+S04E26P02	1	1	0	1	young entrepreneur,pet industry,natural product,emotional appeal,market demand,scalable business model
+S04E26P03	0	1	0	1	niche market,limited scalability,high valuation,unclear financials
+S04E26P04	1	1	0	1	innovative product,global market potential,clear problem and solution,strong team background,technology integration,live demonstration.
+S05E01P01	0	0	0	1	saturated market,low technological barrier,unclear financials,high valuation
+S05E01P03	0	0	0	0	overcrowded market,unclear differentiation,potential privacy concerns,scalability issues,investor skepticism on operational execution.
+S05E01P04	1	1	0	1	popular product,high sales,large distribution channel,reasonable valuation,unique offering,taste appeal
+S05E02P02	1	1	0	1	innovative product,market validation,strong sales,safety technology,integration with smartphones,investor engagement in pitch.
+S05E02P03	0	0	0	0	novelty product,limited market potential,unclear financials,entertainment-focused pitch
+S05E03P02	1	1	0	1	innovative product,family-oriented,practical solution,market need,entertainment value,engaging presentation
+S05E03P04	1	0	0	1	unique product,large market,clear problem and solution,appealing to college students and busy individuals,simple and effective demonstration.
+S05E04P01	0	0	0	0	niche market,limited scalability,traditional media,entertainment value vs. investment return
+S05E04P02	0	0	0	1	lack of business expertise,family-run,hobby-to-business transition,unclear financials and scalability.
+S05E04P03	0	0	0	0	high valuation,crowded market,unclear revenue model,early stage
+S05E05P03	1	1	0	0	eco-friendly,unique solution,market potential,proven revenue,entertainment value
+S05E06P01	1	1	0	1	innovative product,strong sales,clear demonstrations,market potential,engaging presentation.
+S05E07P01	1	1	0	1	unique product,natural and safe,effective demonstration,experienced founders,growing market for eco-friendly products
+S05E07P02	1	1	0	1	innovative product,large market,proven sales,scalable opportunity,appealing to investor interests
+S05E07P03	1	1	0	0	innovative product,large market potential,entertainment value,clear problem and solution,reasonable valuation.
+S05E07P04	0	0	0	1	unclear explanation,complexity,niche market,communication clarity
+S05E08P02	0	0	0	1	niche market,limited scalability,low sales figures,unclear marketing strategy,reliance on single channel (jewelers)
+S05E08P03	0	0	0	0	niche market,limited scalability,unclear long-term demand,high valuation relative to sales
+S05E08P04	0	0	0	1	niche market,product concerns,unclear demand,potential for controversy
+S05E09P03	0	0	0	0	unclear revenue model,legal concerns,market saturation,lack of financials
+S05E10P03	1	1	0	1	customization,unique product,strong sales,entertainment value"
+S05E11P02	1	1	0	0	innovative technology,virtual reality,interactive gaming experience,high entertainment value,strong pitch engagement,large market potential.
+S05E12P01	0	0	0	1	niche market,product applicability concerns,unclear market research,limited appeal
+S05E12P02	0	0	0	1	niche market,limited appeal,seasonal product,lack of demonstrated sales
+S05E12P04	1	1	0	1	entertainment value,market potential,sales growth,unique product,engaging presentation.
+S05E13P01	1	1	0	0	childhood obesity,unique solution,interactive demonstration,scalable business model,engaging pitch,health and wellness trend.
+S05E13P02	0	0	0	1	niche market,unclear mass appeal,complex demonstration,specialized product,limited broader interest
+S05E13P03	0	0	0	0	oversaturated market,simple product,low investment appeal,privacy concerns common but solution not unique or scalable
+S05E14P02	0	0	0	1	niche market,limited protection,major competitors,low financial barrier
+S05E14P03	0	0	0	1	niche market,unclear presentation,limited appeal,high valuation
+S05E14P05	0	0	0	0	niche market,entertainment value,scalability concerns,unclear financials,high equity ask
+S05E15P02	0	0	0	0	inconsistent profits,high operational costs,financial management concerns
+S05E15P03	0	0	0	0	extreme demonstration,lack of expertise,unclear scientific validation,niche market,potential regulatory issues
+S05E16P03	0	0	0	0	high valuation,niche market,unclear financials,entertainment gimmick.
+S05E16P04	0	0	0	1	niche market,technical complexity,unclear demonstration,potential patent issues,high valuation
+S05E17P01	1	1	0	0	interactive experience,health trend,unique concept,entertainment value"
+S05E17P02	0	0	0	1	unclear business model,lack of product description,high risk,entertainment-focused,security concerns.
+S05E17P03	1	1	0	0	celebrity endorsement,unique product,personal success story,health and fitness market."
+S05E19P01	1	1	0	1	innovative product,safety enhancement,strong founder background,clear market need,scalability potential.
+S05E19P03	0	0	0	0	niche market,existing solutions,high production cost,limited appeal
+S05E19P04	1	1	0	1	innovative product,customization,children's market,clear value proposition,personal touch in pitch,demonstrated market interest,global distribution.
+S05E20P01	1	1	0	0	health-focused product,personalized pitch,young entrepreneur,innovative solution,market trend towards healthy living
+S05E20P02	1	0	0	1	green business,electronics recycling,proven business model,market demand,clear value proposition,expansion potential
+S05E20P04	0	1	0	1	niche product,limited market appeal,unclear financials,high valuation for stage
+S05E21P01	0	0	0	1	consumer resistance,niche market,cultural barriers,high risk
+S05E21P02	0	0	0	1	market saturation,existing solutions,investor skepticism,product differentiation concerns,implementation feasibility.
+S05E21P03	0	0	0	0	unclear market size,novelty item,limited appeal,lack of serious financial details,entertainment value overshadowed by practical investment concerns
+S05E22P01	1	1	0	1	unique product,proven sales,national distribution,strong margins,positive feedback,scalable opportunity.
+S05E22P03	0	0	0	1	high valuation,competitive market,minimum order requirement,cost concerns
+S05E22P04	1	1	0	1	innovative product,experienced team,clear problem and solution,relatable issue,painting industry,unique selling proposition
+S05E23P01	0	0	0	1	high cost,low sales volume,niche market,unclear market demand,high production cost
+S05E23P02	0	0	0	0	unclear growth trajectory,flat sales,high valuation,lack of compelling differentiation
+S05E23P03	0	0	0	1	saturated market,novelty product,unclear financials,high valuation
+S05E24P01	1	1	0	0	market need,scalable solution,proven traction,safety and quality assurance,appealing sector (education and music)
+S05E24P02	0	0	0	1	niche market,limited application,efficiency concerns,pending patent,unclear scalability
+S05E24P03	1	0	0	1	barbara corcoran,deal,significant sales,strong partnership,personal story,market potential,healthcare connections.
+S05E24P04	0	1	0	1	niche market,limited appeal,specialized tool,lack of broad market potential,investor interest.
+S05E25P01	1	1	0	1	innovative product,smart home technology,clear use cases,strong pitch engagement,large market potential.
+S05E25P03	1	1	0	0	innovative product,clear market need,engaging presentation,family business,appealing to investor interests (wine preservation),visual demonstration.
+S05E26P01	0	0	0	0	high valuation,lack of sales data,investor reaction,niche product
+S05E26P02	0	0	0	1	saturated market,high investment ask,unclear differentiation,entertainment value,physical risk concerns
+S05E26P03	0	0	0	1	regulatory concerns,lack of proven efficacy,high risk,investor skepticism
+S05E27P01	0	0	0	0	confusing pitch,lack of clarity,high valuation,low equity offer,unprofessional presentation.
+S05E27P02	0	0	0	1	overstated claims,unclear long-term effectiveness,potential safety concerns,lack of demonstrated market traction,high valuation.
+S05E27P03	1	0	0	1	innovative product,previous major retailer interest (walmart),clear problem and solution,high entertainment value,young entrepreneur motivation.
+S05E28P01	1	1	0	1	innovative product,unique design,global market potential,scalable business model,experienced team
+S05E28P03	0	0	0	0	high risk,uncertain return,previously salvaged,legal complexities,lack of exclusive rights
+S05E29P03	0	0	0	1	confusing presentation,unclear value proposition,niche problem,demonstration issues
+S06E01P02	1	1	0	0	niche market,unique concept,demonstrated revenue,scalable business model,entertainment value.
+S06E01P03	0	0	0	0	pre-revenue,high initial cost,niche market,liability concerns,product functionality doubts
+S06E01P04	1	1	0	1	innovative product,social impact,clear problem and solution,appealing to investor interests,strong presentation
+S06E02P02	0	0	0	0	unclear financials,lack of professional design,novelty item,durability concerns,incomplete sales data
+S06E02P03	1	1	0	0	unique concept,entertainment value,market niche,engaging presentation,personalized approach
+S06E02P04	0	0	0	1	niche market,high production costs,limited appeal,specialized product,uncertain mass market potential.
+S06E03P01	0	0	0	1	niche market,novelty item,limited appeal,high competition in children's products,unclear long-term usability
+S06E03P03	0	0	0	0	pre-revenue,niche market,high valuation,unproven demand
+S06E04P02	0	0	0	1	unclear business model,niche market,low scalability,lack of financial details,high valuation for early-stage concept
+S06E04P03	1	1	0	0	practical solution,experienced entrepreneur,global interest,entertainment value,clear demonstration
+S06E04P04	0	1	0	1	unclear pitch,confusing presentation,product demonstration effectiveness questionable,niche market,high valuation.
+S06E05P04	0	0	0	1	niche market,novelty product,high valuation,entertainment over substance,unclear long-term viability
+S06E06P01	0	1	0	0	niche market,high valuation,unclear broader market appeal,cost concerns,specialized product
+S06E06P03	1	1	0	0	high demand,innovative technology,safety product,experienced team,clear problem and solution,large market potential
+S06E07P01	0	0	0	1	high valuation,lack of unique value proposition,skepticism from investors,competitive market,anecdotal evidence
+S06E07P02	0	0	0	0	niche market,unclear financials,lack of detailed business model,high valuation.
+S06E07P03	0	0	0	1	high valuation,unclear market potential,entertainment gimmick,lack of financial details
+S06E08P03	0	0	0	0	niche market,lack of entrepreneur experience in fashion/design,competitive market,unclear financials and sales data.
+S06E09P01	0	0	0	0	unclear pitch,confusion,lack of clarity in explanation,missing financial details,incomplete demonstration explanation.
+S06E10P01	1	1	0	1	innovative product,relatable problem,broad market appeal,entertainment value,clear demonstration
+S06E10P02	0	0	0	0	high cost,niche market,unclear demand,financial sustainability concerns
+S06E10P04	0	1	0	1	saturated market,differentiation challenge,marketing needs,financial specifics lacking
+S06E11P01	1	1	0	1	innovative product,substantial sales,clear market need,scalability,room for investor guidance on consumer education and inventory management.
+S06E11P04	1	0	0	1	innovative product,strong patent,large market potential,packaging appeal,kevin's interest in licensing.
+S06E12P01	0	0	0	1	niche market,seasonal product,unclear market size,limited appeal
+S06E12P02	1	0	0	0	innovative product,seasonal market,clear problem and solution,scalable opportunity,entertainment value
+S06E13P03	0	1	0	1	limited scale,high competition,early stage,geographic limitation,convertible notes debt,investor skepticism
+S06E14P02	0	0	0	1	saturated market,lack of differentiation,potential low consumer interest,investor skepticism
+S06E14P03	0	0	0	0	low sales,complex licensing,unclear business structure,royalty concerns.
+S06E15P01	1	0	0	1	innovative product,strong demonstration,clear use cases,scalable,engaging presentation
+S06E15P02	0	0	0	0	niche market,unclear differentiation,prototype stage,limited application
+S06E15P04	1	1	0	1	luxury market,high-quality product,experienced team,celebrity endorsement"
+S06E16P03	0	0	0	1	unclear presentation,interruptions,lack of focus,investor disinterest,unprofessional demeanor
+S06E16P04	1	1	0	1	innovative product,strong sales,health concern,market potential,clear problem and solution,reasonable valuation.
+S06E17P01	1	1	0	1	unique product,pet industry growth,clear problem and solution,subscription model,scalability,entertainment value
+S06E17P03	0	0	0	1	prototype stage,frequent maintenance,environmental niche,unclear market size
+S06E17P04	1	1	0	0	innovative product,market need for comfort,dual-zone capability,smart home integration,appealing to couples with different temperature preferences,entertainment value in pitch.
+S06E18P01	0	0	0	1	high valuation,niche market,unclear differentiation,production scalability concerns,investor skepticism
+S06E18P03	0	0	0	1	niche product,unclear market size,entertainment value,lack of serious business model,novelty item.
+S06E19P02	0	0	0	1	niche market,entertainment value low,unclear differentiation,limited scalability,hobbyist appeal
+S06E20P03	0	0	0	1	complex installation,niche market,unclear roi,high competition in smart home devices,financials unclear
+S06E20P04	0	1	0	1	saturated market,unclear differentiation,technical scalability concerns,team depth
+S06E21P01	0	1	0	1	niche market,product complexity,unclear demonstration,limited appeal
+S06E21P02	0	0	0	0	safety concerns,incomplete testing,unclear presentation,legal risks,installation complexity
+S06E22P01	1	1	0	1	return entrepreneur,improved sales,clear focus,market potential,reduced valuation
+S06E22P02	0	0	0	1	high valuation,unclear financial details,entertainment-focused pitch,lack of substantial business discussion.
+S06E22P03	1	1	0	1	unique product,clear market need,existing sales,scalable business model,attractive to hospitality industry,reasonable valuation.
+S06E23P04	0	1	0	1	high valuation,limited team,niche market,apparel industry saturation
+S06E24P01	1	1	0	1	unique product,emotional appeal,children's market,personalized,entertainment value,scalability
+S06E24P02	1	1	0	0	unique product,growing sales,profitable,environmental impact,market demand.
+S06E24P04	1	1	0	0	innovative product,compelling personal story,strong presentation,physical product demonstration,clear market need,emotional engagement.
+S06E25P02	0	0	0	1	confusing presentation,lack of clarity,unprofessional demeanor,unclear financial details,safety concerns.
+S06E25P04	1	1	0	1	environmental impact,innovative product,cost-effective,market potential,sustainability.
+S06E26P02	0	0	0	0	niche market,limited scalability,unclear value proposition,investor concerns unaddressed
+S06E26P03	1	1	0	1	american-made,quality,direct-to-consumer,simplicity,curated packages,transparency in production
+S06E27P01	0	1	0	1	saturated market,unclear differentiation,high competition,financials unclear,investment size small for impact
+S06E27P03	0	0	0	1	unclear communication,high valuation,niche market,cost concerns,product demonstration clarity
+S06E27P04	0	0	0	1	niche market,unclear business model,high production costs,novelty product,limited scalability
+S06E28P02	1	1	0	0	innovative product,high market need,scalable business model,entertainment value,strong pitch presentation
+S06E28P03	0	0	0	1	high valuation,niche market,unclear cost-benefit,complex technology,specialized investment
+S06E29P01	0	0	0	1	high investment ask,prototype stage,regulatory concerns,unclear business model,high risk
+S06E29P03	0	0	0	1	niche market,unclear explanation,lack of financial details,entertainment value moderate.
+S06E29P04	1	0	0	1	innovative product,scalable business model,strong market potential,entertainment value,clear demonstration
+S07E01P01	1	1	0	1	innovative product,pediatrician approved,practical utility,emotional appeal,engaging presentation.
+S07E01P02	0	0	0	1	high valuation,niche market,safety concerns,product novelty,demonstration issues.
+S07E01P04	0	0	0	1	vague pitch,lack of clear plan,limited market appeal,investor concerns
+S07E02P01	0	0	0	1	niche market,unconventional flavors,high competition,refrigeration challenge,market share dominance by competitors
+S07E02P02	0	0	0	1	lack of expertise,saturated market,security concerns,credibility issue
+S07E03P01	1	1	0	1	subscription model,global reach,proven sales,scalable,entertainment value,unique product offering
+S07E03P02	1	1	0	0	innovative solution,large market potential,addresses cash handling issues,enhances customer and business convenience,technology integration in traditional service.
+S07E03P03	0	0	0	1	niche market,early stage,product uniqueness,limited appeal,financials unclear
+S07E04P01	0	0	0	1	saturated market,commodity product,unclear differentiation,high competition
+S07E04P02	0	0	0	0	prototype phase,potential safety issues,niche market,lack of padding discomfort,unclear manufacturing and scalability plans.
+S07E04P04	0	0	0	1	niche market,entertainment value,unclear financials,hygiene product saturation,investor skepticism
+S07E05P01	1	1	0	1	unique product,premium quality,strong sales,clear market differentiation,engaging pitch,food industry appeal
+S07E05P04	0	0	0	1	niche market,complex technology,regulatory concerns,high investment risk
+S07E06P01	1	1	0	1	niche market,clear problem and solution,scalable business model,targeted marketing strategy,unique inventory,sports and entertainment appeal.
+S07E06P02	1	0	0	0	innovative product,convenience,large market (coffee drinkers),unique technology (hot box),entertainment value (engaging story and demonstration).
+S07E06P03	1	1	0	1	innovative technology,broad application potential,clear demonstration,strong unique selling proposition,market demand for convenience products.
+S07E07P03	1	1	0	0	last mile problem,innovative solution,demonstrable product,market need,engaging presentation
+S07E08P01	0	0	0	0	product comfort concerns,material quality,unclear market demand,investor skepticism
+S07E08P03	0	1	0	1	licensing focus,lack of growth interest,unclear market education strategy,investor concerns about brand building.
+S07E08P04	1	0	0	1	innovative,unique products,large market potential,existing sales,appealing to tech-savvy investors
+S07E09P01	0	0	0	0	niche market,unclear financials,high risk,novelty product,lack of demonstrated market demand.
+S07E09P03	1	1	0	1	social impact,established retail presence,unique product,emotional appeal,scalable model
+S07E10P01	0	0	0	0	niche market,entertainment value,product practicality,safety concerns,investor interest
+S07E10P04	0	0	0	1	high valuation,niche market,complex product features,investor skepticism on market size and execution capability.
+S07E11P01	0	0	0	1	high price point,niche market,seasonal product,complex technology,additional costs for patterns.
+S07E11P02	0	0	0	0	novelty item,seasonal,competitive market,niche product
+S07E11P03	0	0	0	1	niche market,scalability concerns,manufacturing complexity,investor interest
+S07E12P02	0	0	0	1	negative feedback,taste issues,niche market,investor concerns,lack of enthusiasm.
+S07E12P03	1	1	0	1	unique entertainment concept,proven sales growth,scalable business model,high entertainment value,experiential trend.
+S07E12P04	0	0	0	1	niche market,limited appeal,unclear differentiation from existing solutions (tie bars),entertainment value moderate but not compelling.
+S07E13P01	0	0	0	0	unclear value proposition,hygiene concerns,niche market,presentation style,investor skepticism
+S07E13P02	1	1	0	1	social impact,sustainability,subscription model,market demand for healthy products,emotional appeal,clear business model.
+S07E14P01	0	0	0	1	high valuation,niche market,uncertain scalability,legal complexities,low success rate.
+S07E15P02	0	0	0	0	overcrowded market,lack of unique value proposition,high valuation for early-stage company,unclear financials and sales data.
+S07E15P03	0	0	0	0	high cost,niche market,practicality concerns,investor skepticism
+S07E15P04	1	1	0	1	high growth,proven track record,expanding market,educational impact,scalable online transition.
+S07E16P02	1	1	0	0	innovative product,broad market appeal,tech focus,safety feature,entertainment value.
+S07E16P04	1	1	0	1	social impact,unique value proposition,veteran entrepreneurs,compelling backstory,emotional appeal.
+S07E17P01	1	1	0	0	innovative product,health and wellness market,high accuracy,scalable technology,strong pitch entertainment value.
+S07E17P04	0	1	0	1	high valuation,niche market,technology reliability,competition in custom clothing.
+S07E18P01	0	1	0	1	high valuation,crowded market,unclear differentiation"
+S07E18P02	0	0	0	0	niche market,high investment ask,unclear scalability,specialized equipment,hygiene skepticism
+S07E18P04	0	1	0	1	unclear pitch,environmental focus,niche market,execution concerns,investor fit
+S07E19P01	0	0	0	1	oversaturated market,unclear differentiation,safety concerns,niche product
+S07E19P03	1	1	0	1	innovative,space-saving,fitness industry,scalable product line,clear demand
+S07E20P03	0	0	0	0	saturated market,unclear differentiation,potential technical issues,high production costs
+S07E21P01	0	1	0	0	crowdsourcing complexity,niche market,high investment for equity"
+S07E21P02	0	0	0	1	unclear business model,lack of serious problem identification,insufficient financial details,high valuation with low equity offer.
+S07E21P03	1	1	0	1	innovative solution,relatable problem,clear market need,appealing product demonstration,engaging pitch
+S07E22P01	0	0	0	1	niche product,limited appeal,novelty item,entertainment value high but practical investment low
+S07E22P02	0	0	0	1	high investment ask,niche market,limited product size,complex technology,specialized team requirement.
+S07E23P01	1	1	0	1	unique pet products,customization,emotional appeal,large pet market,reasonable valuation,personalized pitch with samples.
+S07E23P02	1	1	0	1	innovative product,educational value,interactive technology,personalized content,strong presentation,engaging pitch.
+S07E23P03	0	0	0	0	novelty item,limited utility,lack of recurring revenue,high novelty,low practical value
+S07E23P04	1	1	0	1	innovative product,strong pre-sales,clear market niche,scalable business model,appealing to tech-savvy consumers.
+S07E24P01	1	1	0	1	innovative product,pet health monitoring,large pet owner market,technology integration,reasonable valuation.
+S07E24P02	0	0	0	0	high valuation,insufficient sales growth,unclear market demand,fashion accessory risk,investor skepticism.
+S07E24P03	1	1	0	0	innovative product,high market potential,strong pitch,customization feature,technology integration,entertainment value.
+S07E25P01	1	1	0	1	innovative product,solves common problem,environmentally friendly,patented,entertainment value,clear market potential
+S07E25P02	0	0	0	0	niche market,high equity ask,entertainment value,lack of financial details,specialized location
+S07E25P03	1	1	0	0	innovative product,large market,experienced team,strong demonstration,investor interest
+S07E26P03	0	0	0	0	unclear pitch,product novelty,market potential unclear,high valuation
+S07E26P04	0	0	0	1	high equity offer,niche market,unclear differentiation,potential scalability issues
+S07E27P04	0	0	0	1	niche market,complex pitch,unclear financials,high valuation.
+S07E28P01	1	1	0	1	unique concept,nostalgia marketing,entertainment value,growing adult recreation market
+S07E28P02	0	0	0	1	unclear demonstration,niche market,high product cost,practicality concerns.
+S07E28P04	1	1	0	1	innovative product,nostalgia market,scalable technology,entertainment value,interactive pitch
+S07E29P01	1	1	0	1	return entrepreneur,addressed feedback,subscription model,direct-to-consumer,market need,entertainment value
+S07E29P03	0	1	0	1	saturated market,digital alternatives,low technological barrier,unclear financials
+S07E29P04	0	0	0	1	high valuation,niche market,controversial method,limited appeal
+S08E01P01	1	1	0	1	innovative product,large market (beer consumers),entertainment value,demonstration ready,clear problem and solution,substantial equity offer.
+S08E01P03	1	1	0	0	celebrity endorsements,unique product,experienced entrepreneur,clear market demand,personalization trend.
+S08E02P01	1	0	0	1	innovative,fashion industry,high demand events,customizable,cost-effective,entertainment value
+S08E02P03	0	0	0	0	entertainment value,lack of clear business model,high valuation,unclear market differentiation,reliance on poem/performance over substance.
+S08E02P04	0	0	0	1	niche product,limited appeal,novelty item,unproven market demand,high risk.
+S08E03P02	0	0	0	0	unclear pitch,lack of professionalism,insufficient financial details,confusing presentation
+S08E03P03	0	1	0	1	high valuation,niche market,technical feasibility concerns,competitive landscape.
+S08E04P02	1	1	0	0	unique product,legal innovation,high market demand,experienced entrepreneur,entertainment value
+S08E04P03	0	1	0	1	niche product,high valuation,unclear market size,potential manufacturing complexities
+S08E05P02	0	0	0	0	young entrepreneur,niche market,product uniqueness,investor risk appetite,market size concerns
+S08E05P04	1	1	0	1	innovative product,pet industry,clear problem and solution,emotional appeal,reasonable valuation,scalable business model
+S08E06P02	0	0	0	0	unclear business model,logistical concerns,hygiene issues with used clothes,high operational costs,niche market appeal.
+S08E06P03	0	1	0	1	niche market,high investment ask,prototype stage,specialized technology,unclear mass market appeal.
+S08E06P04	0	0	0	1	novelty item,lack of proprietary value,limited market potential,unclear business model.
+S08E07P03	1	1	0	0	innovative technology,health concern solution,market potential,scalable product,strong presentation
+S08E07P04	0	0	0	0	aggressive tone,unclear value proposition,high valuation,lack of financial details.
+S08E08P02	0	0	0	1	young age,limited scalability,niche market,financials unclear,high risk
+S08E08P03	1	1	0	1	scalable business,proven growth,food industry interest,engaging presentation,targeted investor appeal
+S08E08P04	1	1	0	1	innovative product,real estate convenience,high market potential,engaging pitch,addresses common problem,technology integration.
+S08E09P02	0	0	0	0	high valuation,niche market,unclear financials,investor concerns
+S08E10P01	1	1	0	1	innovative product,urban mobility solution,high entertainment value,strong demonstration,clear market need
+S08E10P02	1	1	0	0	pet health,growing market,emotional appeal,product uniqueness,clear problem and solution,engaging pitch.
+S08E10P03	0	0	0	0	high valuation,niche market,unclear competitive advantage,investor concerns about ingredients and health impact.
+S08E11P02	0	0	0	0	niche market,product differentiation unclear,safety concerns,limited appeal
+S08E11P03	0	0	0	1	saturated market,customization not unique,high valuation,unclear competitive advantage
+S08E11P04	0	0	0	1	unclear pitch,confusing presentation,lack of focus,high valuation,unclear financials.
+S08E12P03	1	1	0	0	veteran-owned,emotional appeal,unique backstory,coffee market,strong branding,personalization.
+S08E13P02	0	0	0	1	unclear value proposition,overly casual pitch,lack of financial details,unfocused product description
+S08E14P02	1	1	0	1	innovative product,niche market,clear problem and solution,appealing to health-conscious consumers,entertainment value in pitch.
+S08E14P04	0	0	0	1	high initial investment,security concerns,niche market,scalability issues
+S08E15P03	0	1	0	1	niche market,unclear broad appeal,limited demonstration of financials,high valuation for early stage
+S08E16P03	1	1	0	0	ethical sourcing,superfood trend,social impact,unique value proposition,health-conscious market.
+S08E17P02	1	1	0	1	innovative product,home gardening trend,tech integration,strong presentation,market potential,lifestyle appeal
+S08E17P03	0	0	0	0	competitive space,existing solutions,technical feasibility,niche market,high valuation
+S08E17P04	1	1	0	1	educational technology,coding for kids,subscription model,interactive product demonstration,high market potential,engaging pitch.
+S08E18P01	0	0	0	1	saturated market,unclear unique value proposition,high valuation,emotional appeal without strong business metrics
+S08E18P02	0	0	0	1	sensationalism,lack of details,unclear business model,high valuation
+S08E18P04	0	0	0	1	unclear pitch,initial confusion,niche market,low donation percentage,financial impact unclear
+S08E19P02	1	1	0	1	unique product,interactive experience,entertainment value,consumer engagement,scalable business model
+S08E19P03	0	1	0	0	saturated market,behavior modification complexity,unclear efficacy,high equity ask
+S08E19P04	1	1	0	1	unique product,environmental impact,personalized pitch,scalable business model,entertainment value.
+S08E20P01	0	0	0	1	niche market,novelty product,limited appeal,investor skepticism,entertainment value high but practical investment appeal low.
+S08E20P02	0	1	0	1	niche market,complexity,entertainment gimmick,unclear scalability,high valuation.
+S08E20P04	0	0	0	1	unclear problem statement,vague product description,lack of financial details,emotional pitch lacking business specifics.
+S08E21P01	0	0	0	1	unclear pitch,unrealistic expectations,privacy concerns,high competition in security tech.
+S08E21P03	0	0	0	0	unclear value proposition,consumer confusion,vague merchant commitments,investor concerns
+S08E21P04	1	1	0	1	child safety,patented technology,emotional appeal,large market potential,appealing design.
+S08E22P02	0	0	0	0	niche market,unclear demonstration,safety product,limited appeal,investor disinterest.
+S08E22P04	1	1	0	1	innovative product,security concern,market need,demonstration,entertainment value
+S08E23P01	1	0	0	1	innovative product,relatable problem,strong pitch,market potential,unique technology,made in usa,confident guarantee.
+S08E23P02	0	0	0	0	niche product,high valuation,unclear market demand,novelty item,limited appeal
+S08E23P04	1	1	0	1	innovative kitchen gadget,multi-functionality,clear problem and solution,engaging presentation,appealing to broad market
+S08E24P02	1	1	0	0	innovative product,digital integration,environmental sustainability,clear use case,humor in pitch
+S08E24P03	0	0	0	0	niche market,scientific skepticism,product efficacy,investor concerns
+S09E01P02	0	0	0	0	niche market,safety concerns,high investment,unclear market demand,complex technology
+S09E02P01	0	0	0	1	confusing pitch,unclear value proposition,lack of financial details,presentation clarity.
+S09E02P03	0	0	0	1	niche market,novelty item,limited application,scalability concerns,unclear financials
+S09E03P01	1	1	0	1	relatable problem,innovative solution,broad market appeal,entertainment value,clear demonstration
+S09E03P02	1	1	0	1	innovative product,safety feature,large market potential,engaging presentation,strong demonstration
+S09E03P03	1	1	0	1	unique product,global reach,demonstrated demand,coffee industry growth,simple solution
+S09E04P02	1	1	0	0	innovative product,relatable problem,engaging presentation,targeted investor interaction,youth entrepreneur appeal
+S09E04P03	0	1	0	1	saturated market,novelty appeal,lack of unique selling proposition,entertainment over substance
+S09E04P04	0	1	0	1	prototype stage,unproven technology,limited market validation,high risk,patent only recent
+S09E05P01	1	1	0	1	niche market,relatable problem,clear solution,engaging presentation,emotional appeal
+S09E05P02	0	0	0	1	saturated market,novelty appeal,lack of financial details,high valuation
+S09E05P04	0	0	0	1	niche market,product complexity,unclear differentiation,investor skepticism
+S09E06P02	0	0	0	0	niche market,limited appeal,unclear financials,novelty product
+S09E06P04	1	1	0	1	unique product,market demand,celebrity endorsement,practical demonstration,health and wellness trend.
+S09E07P01	1	1	0	1	innovative concept,advertising revenue model,initial traction,scalability potential,environmental appeal.
+S09E07P03	1	0	0	0	innovative product,large market potential,strong demonstration,clear value proposition,entertainment value.
+S09E07P04	1	1	0	1	relatable problem,innovative solution,large target market,emotional appeal,clear demonstration
+S09E08P03	0	0	0	0	confusing presentation,lack of clear communication,unprofessional demeanor,unclear business model,insufficient financial details
+S09E09P01	1	1	0	1	innovative product,large market,pet industry,convenience,hygiene,clear problem and solution,appealing equity offer.
+S09E09P03	0	0	0	0	niche market,unclear revenue model,high competition,low equity offer
+S09E10P01	1	1	0	1	unique product,broad market application,military background,demonstrated need,entertainment value
+S09E10P02	0	1	0	1	ethical concerns,privacy issues,sustainability of business model,cost concerns,scalability issues
+S09E10P03	1	1	0	0	innovative technology,large market,environmental benefits,automation trend,operational model
+S09E11P01	1	1	0	1	unique product,healthy alternative,clear market niche,enthusiastic team,positive shark engagement,food industry appeal.
+S09E11P02	0	0	0	1	niche market,entertainment value,unclear financials,product differentiation,investor interest
+S09E11P04	0	0	0	1	prototype not food grade,safety concerns,niche market,high valuation for early stage
+S09E12P01	0	0	0	1	confusing pitch,unclear value proposition,niche market,high valuation
+S09E12P02	0	0	0	0	unclear pitch,lack of details,missing financials,vague business model.
+S09E13P01	1	1	0	1	seasonal product,high entertainment value,clear problem and solution,mass appeal,cozy wearable product,strong presentation style.
+S09E13P02	0	0	0	0	niche market,seasonal product,unclear broader appeal,investor skepticism
+S09E13P03	0	0	0	1	niche market,high product cost,limited appeal,technological redundancy,investor skepticism
+S09E13P04	0	1	0	1	niche market,emotional appeal,lack of prior sales,family tradition,high risk
+S09E14P01	1	1	0	1	practical solution,common problem,engaging pitch,product demonstration,humor,clear value proposition
+S09E14P02	0	0	0	0	prototype stage,high investment in patents,unclear market validation,complex usability,high equity ask.
+S09E14P04	0	0	0	0	unprofessional presentation,unclear value proposition,lack of focus,investor concerns
+S09E15P01	0	0	0	1	niche product,unclear market demand,novelty item,potential manufacturing and scalability concerns,high valuation for early-stage product.
+S09E15P03	0	0	0	0	niche market,high setup costs,uncertain demand,scalability concerns
+S09E16P03	0	0	0	0	niche market,product appeal,presentation style,market size,investment attractiveness
+S09E16P04	0	0	0	1	niche market,unclear financials,gimmicky presentation,lack of broad appeal.
+S09E17P02	1	1	0	0	innovative product,strong sales,international presence,scalable market,safety features,appealing to broad demographic
+S09E18P01	1	1	0	1	innovative product,market need for men,confidence boost,high entertainment value,clear problem and solution,appealing to investor interests in unique and scalable opportunities.
+S09E18P02	0	0	0	1	niche market,lack of financial details,unclear broader appeal,high valuation.
+S09E19P01	0	0	0	1	saturated market,unclear differentiation,complex customization,investor engagement
+S09E19P02	1	1	0	1	innovative product,safety,large market potential,clear demonstration,engaging presentation,strong team motivation.
+S09E20P02	0	0	0	0	confusing presentation,lack of clear business details,unprofessional demeanor
+S09E20P03	1	1	0	1	high social impact,innovative solution,large market,relatable problem,strong presentation.
+S09E20P04	1	1	0	1	innovative product,patented technology,broad market application,fitness industry growth,young entrepreneur.
+S09E21P01	0	1	0	1	niche market,high valuation,unclear scalability,specialized product
+S09E21P02	0	0	0	1	high shipping cost,heavy product,unclear differentiation,limited appeal
+S09E21P04	1	1	0	1	high demand,affordable healthy food,scalable business model,social impact,food deserts
+S09E22P02	0	1	0	1	niche market,limited appeal,high valuation,saturated market
+S09E22P04	0	1	0	0	high valuation,niche market,lack of experience,health claims
+S09E23P01	0	1	0	1	seasonal product,limited market potential,niche appeal,high valuation for equity offered.
+S09E23P03	0	1	0	0	niche market,product practicality,safety concerns,unclear financials
+S09E23P04	0	0	0	1	confusing pitch,unclear value proposition,market saturation,digital payment alternatives,implementation challenges
+S09E24P01	0	0	0	0	saturated market,lack of unique value proposition,high competition,insufficient financial details
+S09E24P03	0	0	0	1	unclear pitch,lack of details,confusing presentation,missing financials and market analysis.
+S09E24P04	0	0	0	0	dietary supplement skepticism,investor dislike,early stage,health claims,regulatory concerns
+S10E01P01	0	0	0	1	high valuation,niche market,existing solutions (cameras,secure delivery boxes),complex logistics for delivery drivers.
+S10E01P02	1	1	0	1	innovative product,family business,entertainment value,patent protection,child entrepreneur,non-toxic and safe product
+S10E02P01	1	1	0	1	unique product,pet industry,demonstration,entertainment value,clear problem and solution,market potential
+S10E02P02	1	1	0	0	innovative product,relatable problem,engaging demonstration,strong pitch,clear market need,health benefits,interactive presentation
+S10E03P02	0	0	0	1	cryptocurrency volatility,regulatory risks,complex explanation,niche market appeal,investor skepticism on tech understanding.
+S10E03P03	0	1	0	1	niche market,high investment ask,unclear financials,regional expansion risk
+S10E04P01	0	0	0	1	saturated market,niche product,unclear differentiation,high valuation
+S10E04P04	0	0	0	1	unclear pitch,confusion,lack of focus,entertainment over substance
+S10E05P02	1	1	0	1	innovative solution,large market potential,personal success story,scalable technology,appealing to frequent travelers.
+S10E05P03	1	1	0	1	innovative product,significant sales,patented technology,market potential,high entertainment value.
+S10E06P02	0	0	0	0	unclear presentation,niche market,product demonstration effectiveness questionable,security product market saturation.
+S10E06P03	0	0	0	1	niche market,low investment appeal,high valuation,entertainment-focused pitch
+S10E06P04	1	1	0	1	health trend,low-carb,sugar-free,proprietary blend,taste approved by sharks,growing market demand,appealing valuation.
+S10E07P01	0	0	0	1	niche market,entertainment gimmick,unclear business model,seasonal limitation,investor skepticism.
+S10E07P02	0	0	0	1	declining sales,unclear pitch,market potential questionable,financial instability.
+S10E07P03	0	0	0	1	impractical product,niche market,lack of focus,unclear business model
+S10E08P03	1	1	0	0	multiple offers,strong interest from sharks,high revenue projections,scalable market potential,positive feedback on product and branding.
+S10E09P02	0	1	0	0	high valuation,niche market,complex product,fitness industry saturation,investor skepticism on reinventing established equipment.
+S10E09P03	0	0	0	1	niche market,diy solution,lack of proprietary technology,high competition in coffee market,unclear financials and scalability.
+S10E10P01	0	0	0	1	niche market,high risk,unclear revenue model,novelty appeal,scalability concerns
+S10E10P02	1	1	0	0	ethical clothing,social impact,unique value proposition,strong mission,emotional appeal,market trend towards sustainability.
+S10E10P04	1	1	0	1	innovative product,pet care market,engaging demonstration,clear problem and solution,reasonable valuation
+S10E12P02	0	0	0	1	saturated market,lack of unique value proposition,high valuation,investor interest in innovative differentiation
+S10E12P03	0	0	0	1	niche market,unclear presentation,entertainment over substance,lack of financial details.
+S10E13P01	0	0	0	1	niche market,unclear presentation,product feasibility concerns,safety certification questions,investor fit.
+S10E14P01	0	0	0	1	niche market,unclear presentation,confusion in pitch,high investor skepticism,product complexity
+S10E15P01	1	1	0	1	innovative solution,large market,clear problem,entertainment value,experienced founders.
+S10E16P01	1	1	0	1	innovative wellness solution,growing trend,high-end market appeal,clear business model,scalability potential
+S10E16P02	0	0	0	1	niche market,high valuation,unclear financials,potential resistance to product concept
+S10E17P01	1	1	0	1	unique product,strong presentation,food industry appeal,customization options,clear passion and enthusiasm.
+S10E18P01	0	0	0	1	high valuation,unclear pitch,investor concerns,lack of clarity in financials.
+S10E18P03	1	1	0	1	innovative product,entertainment value,clear problem and solution,market potential
+S10E19P01	0	0	0	1	confusing pitch,lack of clear business model,unclear market potential,entertainment value not focused on business viability.
+S10E19P02	1	1	0	1	customizable product,high market need,expert founder,scalable solution,health and safety concern.
+S10E19P03	1	1	0	0	universal problem,eco-friendly solution,broad market appeal,engaging presentation,clear demonstration
+S10E20P02	0	0	0	1	high valuation,niche market,operational complexity,unproven revenue model,competition from digital payment platforms.
+S10E20P03	0	0	0	0	niche product,unclear market size,novelty appeal,sustainability angle positive but insufficient financial details
+S10E20P04	1	1	0	1	innovative solution,health and wellness market,clear demonstration,entertainment value,reasonable valuation
+S10E21P02	0	0	0	1	niche market,limited appeal,accessory-focused,small-scale problem,fashion dependency
+S10E21P03	0	0	0	1	previous rejection,lack of sales,prototype stage,high risk,investor skepticism
+S10E21P04	0	0	0	0	unclear pitch,confusing presentation,lack of focus,insufficient financial details
+S10E22P01	0	0	0	1	incoherent,lacks clarity,no clear business model,unfocused pitch
+S10E22P03	0	0	0	1	niche market,limited appeal,novelty item,low investment return potential
+S10E22P04	0	0	0	1	niche market,unclear differentiation,potential safety concerns,limited appeal
+S10E23P03	1	1	0	1	innovative,eco-friendly,unique product,entertainment value,market potential,health benefits
+S10E23P04	0	0	0	1	unhealthy food concept,niche market,potential health trend misalignment,high risk.
+S11E01P04	1	1	0	1	unique product,plant-based trend,gluten-free option,strong personal story,appealing food category,ready-to-eat convenience.
+S11E02P02	1	1	0	1	health and wellness trend,profitable,growing sales,interactive pitch,scalable product
+S11E03P02	1	1	0	0	innovative product,clear problem and solution,strong market potential,appealing presentation,proprietary technology
+S11E03P03	1	1	0	1	innovative technology,wireless charging market,unique product feature,high demand for tech solutions,strong presentation.
+S11E04P01	0	0	0	1	niche market,operational complexity,scalability concerns,specialized service,limited appeal
+S11E04P03	0	1	0	0	oversaturated market,lack of innovation,unclear differentiation,presentation style,investor interest.
+S11E04P04	0	0	0	1	repetitive speech,unclear presentation,lack of professionalism,high valuation,niche market
+S11E05P02	0	0	0	0	saturated market,unclear unique value proposition,financial strain,personal anecdote-heavy pitch
+S11E05P03	0	0	0	1	niche market,product complexity,potential damage to shoes,unclear financials
+S11E05P04	1	1	0	1	medical device,large market,experienced team,patent pending,fda compliant,clear problem and solution,high entertainment value
+S11E06P02	0	1	0	0	niche market,operational challenges,high valuation,lack of diversification
+S11E06P04	0	0	0	1	oversaturated market,lack of innovation,unclear differentiation,high valuation
+S11E07P03	1	1	0	0	innovative product,large market potential,relatable problem,entertainment value,clear demonstration.
+S11E08P01	0	0	0	1	unclear pitch,lack of focus,confusing presentation,missing business details,emotional appeal without substance.
+S11E08P04	0	0	0	1	high valuation,niche market,product differentiation unclear,scalability concerns.
+S11E09P02	0	0	0	1	niche market,seasonal product,gimmick,limited appeal,entertainment value high but practical investment low
+S11E09P04	1	1	0	1	problem and solution,demonstrable product,entertainment value,seasonal relevance
+S11E10P02	0	0	0	0	confusing pitch,unclear technology explanation,lack of financial details,disorganized presentation
+S11E10P03	0	0	0	0	saturated market,novelty product,safety concerns,demonstration issues
+S11E10P04	0	0	0	1	high valuation,unclear innovation,limited differentiation,potential market skepticism
+S11E12P01	0	0	0	1	unclear pitch,product differentiation unclear,market saturation,presentation style
+S11E12P04	0	0	0	1	confusing presentation,lack of clear business focus,unprofessional demeanor,unclear value proposition
+S11E13P02	1	1	0	1	innovative product,pet industry growth,emotional appeal,customization,organic and natural ingredients.
+S11E13P03	0	0	0	0	flat revenue,low profit margin,niche market,high investment ask
+S11E15P02	0	0	0	0	niche market,unclear financials,high valuation,limited scalability,novelty concept.
+S11E15P04	0	0	0	1	over-the-top presentation,unclear financials,saturated market,gimmicky pitch.
+S11E16P01	0	0	0	1	unclear presentation,lack of financial details,niche market,high valuation.
+S11E16P04	1	1	0	1	innovative tool,safety feature,diy market,demonstration engagement,multiple product applications
+S11E17P01	0	0	0	1	niche market,high competition,location-dependent,unclear financials,high valuation
+S11E17P03	0	0	0	1	high valuation concerns,marketing issues,high customer acquisition cost,limited repeat business,investor disinterest
+S11E18P01	0	0	0	1	unclear pitch,confusing presentation,niche product,lack of financial details,high valuation
+S11E18P02	0	0	0	0	previous rejection,lack of new information,unclear pitch,reliance on past interaction
+S11E18P04	0	0	0	1	saturated market,unclear differentiation,niche appeal,high valuation
+S11E19P01	0	0	0	1	high valuation,niche product,lack of unique selling proposition,competitive market
+S11E19P02	1	1	0	1	innovative product,strong team background,health-conscious market,unique delivery method,clear value proposition.
+S11E20P03	0	0	0	0	unclear business model,lack of financial details,high entertainment but low substance,investor concerns on scalability and profitability.
+S11E22P01	0	0	0	1	unclear pitch,lack of financial details,casual tone,product novelty questionable
+S11E22P02	0	0	0	0	niche market,lack of clear financials,entertainment over substance,uncertain scalability
+S11E22P03	0	0	0	0	niche market,unclear financials,limited scalability,personal anecdote-driven,product specificity
+S11E23P01	0	1	0	1	saturated market,lack of innovation,unclear differentiation,environmental appeal limited
+S11E23P02	1	1	0	0	safety product,firefighter founders,clear problem and solution,emotional appeal,reasonable valuation
+S11E23P03	0	0	0	0	confusing pitch,unclear value proposition,prototype stage,no revenue,high valuation
+S11E24P02	0	0	0	1	unclear pitch,lack of focus,high risk,insufficient return potential,investor concerns
+S12E01P01	1	1	0	1	innovative product,patent protection,existing retail presence,scalable solution,relatable problem
+S12E01P02	0	0	0	1	high cost,niche market,technical complexity,investor confusion
+S12E01P04	1	1	0	1	innovative product,environmental focus,existing sales,market potential,product demonstration
+S12E02P02	0	0	0	1	manufacturing problems,low profit margins,inventory issues,dependency on suppliers,lack of financial control.
+S12E02P04	1	1	0	1	eco-friendly,market demand,unique product,sustainability,made in usa
+S12E03P02	1	1	0	1	high profitability,rapid bootstrapped success,investor interest,clear use of funds,competitive offers
+S12E03P04	0	0	0	1	high valuation,niche product,competitive market,unclear financial details
+S12E04P01	1	1	0	1	health-focused,plant-based trend,expanding product line,addressing common cooking issues,market potential in health-conscious consumers.
+S12E04P04	0	0	0	1	entertainment value,lack of business details,unclear product description,focus on performance over substance.
+S12E05P04	1	1	0	1	unique product,environmental impact,growing niche market,engaging presentation,strong personal story
+S12E06P01	1	1	0	1	unique product,health-conscious trend,strong presentation,surprise element,growing snack market.
+S12E06P02	0	0	0	1	niche market,product practicality,pet discomfort,investor skepticism
+S12E07P03	1	1	0	0	innovative product,unique technology,experienced entrepreneur,growing market,entertainment value
+S12E08P02	1	1	0	1	safety,motorcycle,visibility,innovative product,large market,simple installation,emotional appeal
+S12E08P04	0	0	0	1	high equity demand,entrepreneur reluctance,operational concerns,constant maintenance,high marketing needs
+S12E09P02	0	0	0	0	high valuation,unclear solution effectiveness,novelty factor,celebrity endorsement reliability,market saturation.
+S12E09P04	0	0	0	1	niche market,high equity ask,novelty product,limited appeal
+S12E10P04	0	0	0	1	niche market,unclear value proposition,presentation clarity,investor fit.
+S12E11P01	1	1	0	1	innovative product,health-conscious market,strong customer reviews,clear problem and solution,appealing to health trends,entertainment value in pitch.
+S12E11P02	0	1	0	0	confusing pitch,lack of clear value proposition,high valuation concerns,investor hesitation.
+S12E12P01	0	0	0	1	niche market,limited appeal,hygiene-focused but non-essential,competitive environment,unclear differentiation
+S12E13P01	0	0	0	0	niche market,novelty,hygiene skepticism,dual product confusion,unclear financials
+S12E13P03	0	0	0	1	niche market,lack of business details,personal story focus,unclear scalability.
+S12E13P04	0	0	0	1	product complexity,safety concerns,niche market,demonstration issues
+S12E16P01	0	1	0	1	niche market,scalability concerns,competitive differentiation,investor skepticism
+S12E16P03	0	0	0	0	niche product,limited market appeal,entertainment value high but practical investment appeal low,lack of demonstrated sales or broader market validation,high equity ask for low investment.
+S12E17P01	1	1	0	1	sustainability,health trend,market demand,unique product,flavor variety
+S12E17P02	0	0	0	0	heavy product,unclear demonstration,niche market,environmental angle positive but overshadowed by practicality concerns
+S12E18P01	1	1	0	1	innovative product,health-conscious trend,unique technology,strong presentation,market potential,entertainment value.
+S12E18P03	0	0	0	1	niche market,unclear long-term efficacy,potential customer skepticism,high valuation
+S12E18P04	1	1	0	1	family-oriented product,electric cargo bike,engaging pitch,personalized investor interaction,growing market for eco-friendly transportation.
+S12E19P01	0	0	0	1	high valuation,niche product,existing competition,hygiene-focused but limited differentiation.
+S12E19P03	0	0	0	0	niche market,unclear technology,high valuation,lack of financial details,complex product description.
+S12E19P04	1	1	0	1	innovative product,strong demonstration,high market potential,protection technology,engaging presentation.
+S12E20P02	1	1	0	0	innovative product,market need for cheese storage and slicing,engaging and humorous pitch,clear demonstration of product utility,reasonable valuation
+S12E20P04	1	1	0	1	unique product,patented technology,large market (pet owners),problem-solving,reusable item.
+S12E21P01	0	0	0	1	high valuation,niche market,perishable product,pandemic impact,operational scalability concerns.
+S12E21P04	0	0	0	1	valuation,market saturation,competition"
+S12E22P02	0	0	0	0	niche market,product complexity,unclear demonstration,limited appeal
+S12E23P01	1	1	0	1	innovative product,large market potential,engaging pitch,sports technology,reasonable valuation.
+S12E23P03	1	1	0	1	practical solution,large market potential,engaging pitch,clear problem statement,reasonable valuation.
+S12E23P04	0	0	0	1	high valuation,niche market,complex product,investment size
+S12E24P02	0	1	0	1	niche market,high risk,unclear scalability,novelty without proven demand
+S12E24P03	0	1	0	1	niche market,novelty product,safety concerns,limited use case,seasonal dependency
+S01E01P04	0	0	1	1	unclear presentation,niche market,prototype stage,lack of business model,investor concerns unaddressed
+S01E02P03	0	0	1	1	low profit margins,high valuation concerns,better financing options needed
+S01E02P04	0	0	1	0	no sales,unclear market demand,skepticism from investors,high valuation with no proven track record.
+S01E03P01	0	0	1	1	non-working prototype,lack of physical product,high equity ask,unclear manufacturing cost,incomplete development stage.
+S01E03P03	0	0	1	1	niche market,limited scalability,unclear financials,high competition in children's books and wellness products.
+S01E04P02	0	1	1	0	niche market,emotional appeal,unclear financials,product uniqueness,investor interest
+S01E04P05	1	1	1	1	unique product,multiple customer channels,existing sales,retail partnership with target,hospitality industry potential.
+S01E05P02	0	0	1	0	lack of professionalism,unclear business model,unproven product efficacy,niche market,potential reputational risk for hospitals
+S01E05P04	0	0	1	0	niche market,low sales,competition with established funeral homes,lack of unique value proposition,need for greater exposure
+S01E06P04	0	0	1	0	high competition,early stage,financial instability,lack of sales history
+S01E07P01	1	1	1	1	unique product,clear problem and solution,existing sales,personal story,health motivation,market presence
+S01E07P03	0	0	1	0	high equity offer,niche market,unclear financials,lack of sales,entertainment value
+S01E08P02	1	1	1	1	innovative product,patented,market validation,existing sales,clear use of funds,scalability potential
+S01E09P04	0	0	1	1	unclear pitch,lack of focus,emotional appeal,insufficient business details,market understanding questionable
+S01E10P01	1	1	1	0	unique product,scalable business model,clear use of funds,demonstrated growth,entertainment value.
+S01E10P03	0	0	1	0	vague details,lack of professionalism,unclear business model,entertainment value low
+S01E12P04	0	0	1	1	niche market,high competition,limited product line,unclear financials
+S01E14P01	0	0	1	1	niche market,diy complexity,product appeal,scalability concerns,manufacturing standards.
+S01E15P01	0	0	1	1	niche market,limited growth potential,financial concerns,dependency on third parties
+S01E15P03	0	0	1	0	unproven claims,lack of clinical studies,low sales,high valuation expectations,niche market
+S02E01P02	0	1	1	1	high valuation,limited financial details,niche market,unclear expansion strategy.
+S02E02P01	0	0	1	1	sanitation concerns,high operational costs,niche market,investor risk aversion
+S02E03P01	1	1	1	1	unique product,high demand,celebrity interest,scalable,strong profit margin,passionate entrepreneur.
+S02E05P01	0	0	1	0	low sales,high valuation,niche market,limited financial growth
+S02E05P03	1	1	1	1	unique product,family recipe,nationwide delivery,strong personal story,appealing to broad market,reasonable valuation.
+S02E07P03	1	1	1	1	unique product,proven sales,market potential,celebrity clientele,expansion plan,diy trend.
+S02E08P01	1	1	1	1	innovative solution,large market,pet industry growth,relatable problem,environmental benefits,cost savings,entertainment value.
+S02E08P02	0	0	1	0	declining sales,economic downturn,repositioning risk,high competition,niche market
+S02E08P04	1	1	1	1	innovative product,large market potential,solves common problem,customizable,scalable business model
+S03E01P02	0	1	1	0	niche market,sensitive topic,unclear revenue model,high emotional pitch,investor discomfort
+S03E03P04	0	0	1	1	no existing sales,unproven market,high valuation for pre-revenue company,niche product.
+S03E04P01	0	0	1	0	low sales,limited market exposure,niche product,high equity offer
+S03E04P02	0	0	1	1	saturated market,lack of innovation,homemade production,common product
+S03E04P03	0	0	1	0	niche market,low sales growth,limited mainstream appeal,high investor skepticism
+S03E05P02	0	0	1	0	niche market,low sales volume,unclear business model,limited market validation.
+S03E05P04	1	1	1	1	unique product,proven sales,scalable market,young entrepreneurs,family business,appealing backstory.
+S03E06P02	1	1	1	1	high demand,large orders,retail partnerships,scalability,unique product
+S03E08P04	0	0	1	1	high equity ask,limited financial growth,artisanal scale,lack of detailed business strategy.
+S03E10P04	0	0	1	1	no fashion background,high competition,niche market,lack of expertise in product area,moderate sales.
+S03E11P01	0	0	1	0	high valuation,limited market differentiation,saturated market
+S03E12P01	1	1	1	1	innovative product,convenience,clear market need,strong margins,patent pending,appealing to investor interests in consumer goods and personal care.
+S03E12P03	0	0	1	0	niche product,low sales volume,limited market validation,hand-made production,scalability concerns
+S03E14P01	0	1	1	1	early stage,limited sales history,small profit margin,inexperienced team,sourcing issues
+S04E01P04	0	0	1	1	niche market,early detection not eradication,distribution challenges,limited appeal
+S04E02P03	1	1	1	1	unique value proposition,high sales,strong margins,personalized product,entertainment value
+S04E05P01	1	1	1	1	children's clothing,scalable design,strong market interest,personal story,expansion potential
+S04E05P03	0	0	1	0	niche product,limited appeal,unclear financials,high equity ask
+S04E08P01	1	1	1	1	unique product,solves common problem,emotional appeal,multi-use,market demand for child safety and convenience products
+S04E09P04	0	1	1	1	niche market,high competition,unclear financials,investor fit,entertainment value
+S04E10P01	1	1	1	1	innovative business model,bridal market potential,cost-effective solution,emotional appeal,growth potential,relatable founder story
+S04E11P01	1	1	1	1	unique concept,entertainment value,market niche,strong branding,celebrity clientele.
+S04E11P02	0	0	1	0	unclear pitch,confusing product description,lack of business focus,emotional appeal without strategic value.
+S04E12P04	1	1	1	1	niche market,chemical-free children's hair products,emotional appeal,scalable business model,clear problem and solution,reasonable valuation
+S04E13P02	1	1	1	1	unique product,child safety,hygiene,market potential,complementary book,educational aspect,entertainment value.
+S04E15P01	1	1	1	0	environmental impact,growing sales,scalable solution,market potential,appealing to investor values.
+S04E16P01	0	0	1	0	niche product,limited market expansion,moderate sales,high valuation for stage
+S04E16P03	0	1	1	0	niche market,unclear differentiation,potential licensing and credibility issues,high competition in telehealth,unclear financials and scalability.
+S04E17P01	0	0	1	0	high price point,niche market,limited scalability,lack of sales data,production scalability concerns
+S04E17P03	0	0	1	0	saturated market,lack of unique value proposition,unclear financials,high equity ask
+S04E18P02	1	1	1	1	fda-cleared,patented,profitable,solves common problem,stylish and functional product,strong personal story and motivation
+S04E18P04	0	0	1	1	no sales,prototype phase,existing competition,unproven market demand
+S04E22P02	0	1	1	1	niche market,perishable product,logistics complexity,unclear financials
+S04E23P04	1	1	1	1	unique product,emotional connection,scalable concept,appealing food industry,clear problem and solution,engaging personal story
+S04E24P01	0	1	1	0	saturated market,high risk,transition from food truck to brick-and-mortar,lack of detailed financials,high valuation.
+S04E24P03	0	0	1	1	saturated market,existing alternatives,high price point,unclear unique value proposition
+S04E25P04	1	1	1	1	unique product,military background,existing retailer interest,scalable business model,strong personal story and presentation.
+S04E26P01	1	1	1	0	unique value proposition,targeted niche market,clear problem and solution,high market potential,engaging personal story.
+S05E01P02	1	1	1	0	growing market,proven demand,existing distribution,clear use of funds,appealing product differentiation
+S05E02P01	1	1	1	0	unique product use,strong sales,market presence,engaging pitch,food industry appeal
+S05E02P04	0	0	1	1	niche market,unclear financials,presentation style,high valuation.
+S05E03P01	0	0	1	0	high product cost,low sales,niche market,unclear scalability,high equity ask
+S05E03P03	0	0	1	0	niche product,unclear presentation,limited market appeal,entertainment value not strong enough.
+S05E05P02	1	1	1	0	unique product,patented technology,clear market need,experienced founder,reasonable valuation.
+S05E06P03	0	0	1	1	high valuation,niche market,limited scalability,seasonal business
+S05E08P01	0	0	1	0	unclear business model,scattered pitch,lack of focus,high valuation concern,investor confusion.
+S05E09P02	1	1	1	0	unique product,strong sales,major retailers,aggressive expansion,family recipe.
+S05E09P04	1	1	1	1	engaging,personalized,educational,interactive,market potential,entertainment value
+S05E10P02	1	1	1	1	practical solution,fashion accessory,personalized pitch,market potential,clear target audience,engaging presentation
+S05E11P03	0	1	1	0	niche market,product novelty,limited appeal,scalability concerns,investor interest.
+S05E12P03	0	0	1	0	saturated market,high cost,ethical concerns,unclear differentiation
+S05E14P01	0	0	1	0	niche market,unproven demand,product uniqueness questionable,high investor risk
+S05E15P04	1	1	1	1	high repeat customer rate,significant sales,unique product,emotional appeal,growing team
+S05E16P02	0	1	1	1	saturated market,novelty product,unclear financials,high valuation
+S05E17P04	0	0	1	1	no formal culinary experience,niche market,high product cost,unclear sales data.
+S05E18P01	0	0	1	0	privacy concerns,niche market,unclear scalability,novelty without strong business model.
+S05E18P02	1	1	1	0	innovative product,family-oriented,clear demonstration,solves common problem,appealing to parents and children,reasonable valuation
+S05E18P04	1	1	1	1	medical device,proven effectiveness,existing sales,market presence,patented technology
+S05E22P02	1	1	1	1	innovative product,clear problem and solution,demonstrated market interest,appealing presentation,strong team relationship.
+S05E23P04	0	0	1	1	niche market,unclear presentation,health concerns,high valuation
+S05E25P04	1	1	1	1	innovative product,strong sales,child appeal,amazon distribution,scalability
+S05E27P04	1	1	1	1	eco-friendly,sustainable,unique product,strong team background,entertainment value,market potential in eco-conscious products
+S05E28P02	0	0	1	1	unclear benefits,vague health claims,lack of professional presentation,investor skepticism
+S05E29P02	0	0	1	1	niche market,limited scalability,hardware limitations (ipad only),dependency on third-party retailer (zappos),unclear revenue model beyond affiliate sales.
+S05E29P04	0	0	1	1	lack of sales,untested market,early stage,high risk,inexperienced entrepreneur.
+S06E02P01	0	1	1	1	high valuation,niche market,unclear financials,entertainment gimmick.
+S06E03P02	0	0	1	1	niche market,unclear presentation,low financial clarity,high product cost,limited appeal
+S06E04P01	0	0	1	0	niche market,novelty product,limited repeat customers,high logistics complexity,investor skepticism on scalability and long-term viability.
+S06E05P02	1	1	1	1	unique niche,expanding market,solid revenue growth,attractive margins,entertainment value
+S06E07P04	0	1	1	1	niche market,unclear financials,presentation style,product scalability concerns.
+S06E08P01	1	1	1	1	unique product,niche market,demonstration,athlete endorsement,clear problem and solution,entertainment value
+S06E09P04	1	1	1	1	plant-based trend,whole foods market,expanding distribution,health-conscious product,growing market demand.
+S06E10P03	0	0	1	1	niche market,unproven demand,early stage,high risk,unclear differentiation
+S06E11P02	0	0	1	0	niche market,unclear presentation,lack of financial details,high valuation.
+S06E12P03	1	0	1	1	innovative product,large market,compelling story,young entrepreneurs,health and wellness trend
+S06E12P04	0	0	1	1	seasonal product,limited use,unclear differentiation,high competition in holiday market.
+S06E13P01	0	1	1	1	saturated market,unclear differentiation,high valuation,investor skepticism
+S06E13P02	1	1	1	0	fashion industry,innovative product,clear problem and solution,strong presentation,visual impact,mass appeal.
+S06E14P01	0	0	1	1	niche market,unclear differentiation,limited scalability,presentation clarity
+S06E14P04	0	1	1	1	novelty product,limited market potential,unclear long-term viability,high equity ask
+S06E15P03	1	1	1	1	innovative product,pet industry growth,clear problem and solution,strong pitch,personal story,market potential.
+S06E17P02	0	1	1	0	niche market,novelty item,unclear demand,hygiene concern,limited appeal
+S06E18P02	0	0	1	0	saturated market,big competitors,niche product,high risk
+S06E18P04	0	0	1	1	niche market,unclear product description,lack of sales data,high valuation for early stage
+S06E19P03	1	1	1	1	innovative product,strong market appeal,proven sales track record,engaging pitch,personalized approach to investors.
+S06E19P04	1	1	1	1	innovative product,diy trend,proprietary technology,strong pitch,market potential in custom merchandise.
+S06E20P01	1	1	1	1	innovative product,global demand,social impact,renewable energy,disaster relief utility
+S06E21P03	0	0	1	1	confusing pitch,niche market,unclear differentiation,inventory and customization challenges
+S06E22P04	1	1	1	0	social impact,high margins,large market potential,unique product differentiation,appealing to investor interests.
+S06E24P03	1	1	1	1	innovative solution,high demand,proven sales,retail presence,developmental benefits.
+S06E25P01	1	1	1	1	innovative product,child-friendly,natural ingredients,clear problem and solution,appealing to parents,large market potential,entertainment value in pitch.
+S06E26P01	0	0	1	1	niche market,scalability concerns,evolving business model,physical product in digital era
+S06E27P02	1	1	1	0	innovative product,high market need,scalable business model,entertainment value,strong pitch presentation.
+S06E28P01	0	1	1	1	saturated market,unclear differentiation,high competition,investment size vs. equity offered,execution complexity
+S06E28P04	0	0	1	1	niche market,unclear financials,novelty product,high competition in toy segment,investor skepticism on scalability and long-term viability.
+S06E29P02	0	0	1	0	saturated market,unclear differentiation,investor skepticism,high sugar content,niche market appeal
+S07E01P03	1	1	1	0	unique product,natural and organic trend,craft cocktail market,entertainment value,historical appeal.
+S07E02P03	0	0	1	0	oversaturated market,lack of uniqueness,unclear business model,high valuation
+S07E02P04	1	1	1	1	innovative product,sustainability,entertainment value,market potential,unique offering
+S07E05P02	0	0	1	0	ethical concerns,misleading product,potential backlash,investor reputation risks
+S07E06P04	0	0	1	1	confusing pitch,unclear valuation,high equity demand,lack of clear business model,investor concerns
+S07E07P04	0	1	1	1	niche product,unclear market size,fitness fad,high competition,product differentiation unclear
+S07E10P02	1	1	1	1	trending market,korean beauty popularity,innovative product,clear demonstration,strong pitch,entertainment value.
+S07E10P03	0	0	1	1	unclear pitch,confusing team introduction,lack of financial details,unclear unique manufacturing model.
+S07E11P04	0	1	1	1	saturated market,product differentiation unclear,potential investor skepticism,demonstration awkwardness
+S07E13P03	0	0	1	1	niche market,lack of unique value proposition,unclear financials,high competition in beauty products.
+S07E13P04	0	0	1	1	high valuation,niche market,product differentiation unclear,investor skepticism
+S07E16P01	1	1	1	1	social impact,unique product,strong margins,emotional appeal,military connection,scalable model
+S07E16P03	0	1	1	0	niche market,lack of clear scalability,high risk,unclear financials,entertainment value high but serious investment concerns.
+S07E17P02	1	1	1	1	sustainable,plant-based,vegan market,unique product,environmental impact
+S07E17P03	0	0	1	0	lack of evidence,unconvincing claims,insufficient validation,investor skepticism,high risk.
+S07E18P03	1	1	1	0	innovative product,large market potential,health-conscious consumers,upf 50 fabric,swimwear market growth,appealing to all ages.
+S07E19P04	0	0	1	1	niche market,limited scalability,high valuation,lack of financial details
+S07E20P01	1	1	1	1	health and wellness focus,relatable problem (back pain),innovative solution,strong personal story,product demonstration,reasonable valuation.
+S07E20P04	0	1	1	0	unclear business model,lack of financial details,patent pending but no sales proof,unclear product packaging and distribution strategy.
+S07E22P03	0	0	1	0	negative feedback,taste issues,confusion in product presentation,investor dissatisfaction
+S07E22P04	1	1	1	1	unique product,organic and safe,large market potential,clear problem and solution,strong pitch presentation
+S07E25P04	0	1	1	1	niche product,limited market appeal,potential design flaws,unclear demonstration,leakage concerns
+S07E26P01	0	1	1	1	competitive market,existing solutions,instagram capabilities,differentiation challenge,investor concerns
+S07E27P01	1	1	1	1	healthier alternative,strong retail presence,growing distribution,appealing product differentiation,clear market need,attractive to health-conscious consumers.
+S07E28P03	1	1	1	0	growing market,product improvement,passionate entrepreneur,demonstrated need,sports equipment
+S07E29P02	0	1	1	0	low sales,lack of enthusiasm,unclear market differentiation,investor engagement concerns
+S08E01P04	0	1	1	1	cyberbullying prevention,app effectiveness,market saturation,technological challenges,investor skepticism
+S08E02P02	1	0	1	1	innovative product,solves common problem,scalable market,clear demonstration,reusable and non-damaging technology.
+S08E03P01	0	1	1	1	niche market,limited scalability,high competition in apparel,lack of unique technology or innovation.
+S08E04P01	1	1	1	1	practical solution,relatable problem,affordable product,appealing to female investors,demonstration ready,clear revenue model
+S08E04P04	0	0	1	1	inexperienced team,unclear presentation,niche market,lack of financial details
+S08E05P01	0	1	1	1	niche market,handmade,scalability concerns,limited financial details
+S08E05P03	0	1	1	1	overpitched,unclear unique value,saturated market,gimmicky product.
+S08E06P01	0	0	1	0	unclear pitch,confusing presentation,lack of focus,potential branding issues
+S08E07P01	0	1	1	1	niche market,novelty product,unclear scalability,high valuation
+S08E07P02	0	0	1	1	unclear pitch,lack of financial details,chaotic presentation,high valuation without justification
+S08E08P01	1	1	1	1	innovative product,strong sales,clear market need,appealing to parents,high market potential.
+S08E09P03	0	0	1	0	unclear presentation,high valuation,niche market,product confusion
+S08E11P01	0	1	1	1	seasonal,entertainment value,niche market,unclear financials
+S08E13P01	0	0	1	1	niche market,unclear competitive advantage,environmental impact questionable,financials and scalability concerns.
+S08E13P03	0	1	1	0	niche market,unclear financials,inventory risks,high competition in subscription services.
+S08E13P04	1	1	1	1	unique product,reasonable manufacturing cost,existing sales,market potential,fitness industry experience,personal story/connection.
+S08E14P01	0	0	1	1	consumer resistance,novelty product,limited appeal,protein content concerns,ingredient skepticism
+S08E15P02	1	1	1	0	unique product,market need,aesthetic appeal,versatile use,clear problem and solution,engaging pitch.
+S08E16P01	1	1	1	1	innovative product,relatable problem,experienced entrepreneur,appealing to lori (packaging),high market potential in baby care industry.
+S08E17P01	0	0	1	1	high valuation,niche market,complex product,unclear financials
+S08E19P01	1	1	1	1	innovative product,strong presentation,clear problem and solution,large market potential,appealing to consumer convenience,engaging pitch.
+S08E22P01	1	1	1	1	innovative product,market niche,entertainment value,engaging presentation,clear problem and solution
+S08E24P04	0	1	1	1	niche market,limited scalability,novelty product,unclear financials
+S09E01P04	0	0	1	1	high valuation,unclear pitch,early stage,revenue sharing concerns,competitive market.
+S09E03P04	0	0	1	1	niche market,unclear financials,high equity ask,novelty product
+S09E04P01	1	1	1	1	innovative product,health-conscious trend,unique offering,strong personal story,clear market niche,taste-focused experience.
+S09E07P02	0	0	1	1	early stage,limited track record,high valuation,niche market,operational challenges
+S09E08P01	0	0	1	1	niche market,potential insensitivity,unclear market size,presentation style concerns.
+S09E08P04	0	0	1	1	niche market,unclear financials,high valuation,entertainment over substance
+S09E09P04	1	1	1	1	unique product,addresses common problem,clear use case,entertainment value,appealing to parents and athletes,potential for broad market appeal.
+S09E10P04	0	1	1	1	niche market,gender stereotyping,potential backlash,limited appeal,high valuation.
+S09E11P03	1	1	1	0	emotional connection,educational component,experienced founders,children's market,clear product differentiation
+S09E12P03	0	1	1	1	high valuation,niche market,unclear differentiation,operational complexity.
+S09E12P04	1	1	1	1	health-focused,innovative product,convenience,strong mission,market trend towards healthy eating,appealing to health-conscious investors.
+S09E15P02	1	1	1	1	eco-friendly,innovative product,health-conscious market,strong presentation,clear problem and solution,growing environmental awareness
+S09E16P02	0	0	1	1	gimmicky,unclear technology,entertainment value,practical utility,investor skepticism
+S09E17P01	0	1	1	1	niche market,entertainment value,unclear scalability,high valuation
+S09E17P03	0	1	1	1	niche market,limited appeal,unclear financials,investor interest
+S09E17P04	0	0	1	1	incomplete pitch,unprofessional presentation,unclear business model,niche market.
+S09E18P03	0	0	1	0	unclear pitch,lack of confidence,insufficient details on product and business model,high valuation concern
+S09E19P03	1	1	1	1	unique niche,global market potential,operational fulfillment center,cultural and product uniqueness,appealing story and presentation,strong market differentiation.
+S09E19P04	1	1	1	1	innovative product,clear problem and solution,engaging presentation,patented technology,reasonable valuation
+S09E22P03	0	0	1	1	niche market,high valuation,complex technology,unclear financials.
+S09E23P02	0	0	1	1	unclear presentation,lack of professionalism,confusing pitch,product uniqueness questionable,investor skepticism.
+S09E24P02	0	1	1	1	saturated market,unclear differentiation,product complexity
+S10E02P03	1	1	1	1	unique product,relatable problem,entertainment value,clear market need,engaging presentation
+S10E02P04	1	1	1	1	unique product,large market potential,clear differentiation,appealing presentation,strong entrepreneur passion.
+S10E03P01	0	0	1	0	unclear financials,niche market,high valuation,health food saturation
+S10E04P03	0	0	1	1	confusing pitch,unclear value proposition,presentation style,market saturation in health snacks
+S10E05P01	0	0	1	0	confusing presentation,unclear product description,lack of financial details,chaotic pitch structure.
+S10E05P04	1	1	1	1	growing market,health trend,affordable diy solution,profitable business,scalable model
+S10E07P04	1	1	1	1	unique concept,health trend,scalable business model,food industry appeal,engaging presentation
+S10E09P04	1	1	1	1	parenting solution,relatable problem,simple and innovative product,clear market need,appealing to parent investors,emotional connection,practical with added features.
+S10E11P01	0	1	1	1	niche market,unclear financials,lack of scalability,investor fit,product uniqueness
+S10E11P04	1	1	1	1	innovative product,strong emotional appeal,large target market,relatable problem,personalized pitch
+S10E12P01	0	0	1	0	unclear pitch,confusing presentation,lack of focus,safety product in saturated market,insufficient financial details
+S10E12P04	0	0	1	1	high valuation,niche market,unclear differentiation,investor skepticism
+S10E13P02	1	1	1	0	innovative product,health-conscious trend,unique selling proposition,large market potential,engaging pitch.
+S10E14P04	0	0	1	1	unclear description,lack of professionalism,niche market,presentation style
+S10E15P04	0	1	1	1	overvalued,confusing pitch,lack of focus,competitive market
+S10E17P04	0	0	1	1	unclear pitch,lack of financial details,unprofessional presentation
+S10E20P01	1	1	1	1	unique product,high demand,scalable business,food industry appeal,engaging presentation
+S10E21P01	1	1	1	1	first-to-market,pet industry,emotional appeal,innovative product,growing market potential
+S10E22P02	1	1	1	0	unique product,strong market presence,expansion potential,entertainment value,appealing to millennial demographic
+S11E01P03	0	0	1	1	unclear pitch,confusing presentation,product safety concerns,lack of financial details
+S11E02P01	0	1	1	1	niche market,unclear financials,high valuation,lifestyle product,limited appeal
+S11E02P03	0	0	1	0	unclear pitch,lack of financial details,unprofessional presentation,questionable product efficacy
+S11E04P02	0	1	1	1	unclear pitch,lack of details,confusing presentation,missing financials and business model details
+S11E08P02	1	1	1	1	unique product,growing vegan market,strong personal story,entertainment value,clear expansion vision
+S11E10P01	0	1	1	1	niche market,safety concerns,product differentiation,investor interest
+S11E11P01	0	0	1	1	young age,unrealistic qualifications,niche product,unclear market demand,presentation style.
+S11E11P04	0	0	1	1	unclear pitch,confusing presentation,lack of focus,market saturation
+S11E13P04	0	0	1	1	unclear pitch,niche market,low equity offer,high valuation,taboo subject
+S11E14P03	0	0	1	1	high valuation,niche market,saturated market,dietary trends,financial specifics lacking
+S11E15P01	0	0	1	0	niche market,unclear differentiation,high competition in healthy drinks,investor skepticism on scalability and market size.
+S11E15P03	0	0	1	1	confusing pitch,unclear product description,lack of professionalism,potential safety concerns,distraction during presentation.
+S11E16P02	1	1	1	1	innovative product,health-conscious trend,growing market,unique offering,clear presentation.
+S11E17P02	0	0	1	1	niche market,complex pitch,unclear financials,high equity ask
+S11E17P04	0	0	1	1	niche market,potential liability,product safety concerns,limited appeal
+S11E18P03	1	1	1	0	innovative product,relatable problem,clear solution,mass market potential,reasonable valuation.
+S11E19P03	0	0	1	0	niche market,messy product,unclear business model,entertainment value high but practical investment appeal low.
+S11E20P01	0	0	1	1	seasonal business,limited scalability,high competition in food industry,unclear financial details.
+S11E20P04	0	0	1	1	niche market,unclear business model,lack of financial details,presentation style.
+S11E21P01	1	1	1	1	family-oriented product,safety innovation,emotional appeal,patented tool,clear problem and solution,market potential in child safety products.
+S11E21P04	0	0	1	0	unclear pitch,confusing presentation,lack of financial details,high valuation
+S11E24P01	0	0	1	1	saturated market,safety concerns,regulatory challenges,investor skepticism
+S12E02P01	0	0	1	1	high valuation,crowded market,unclear differentiation,financial sustainability concerns
+S12E02P03	1	1	1	1	innovative product,breakfast market,convenience,unique presentation,scalable concept
+S12E07P01	0	1	1	1	seasonal product,niche market,novelty item,storage solution,potential market size concerns.
+S12E08P01	1	1	1	1	innovative product,strong market presence,rapid growth,health-conscious trend,substantial sales,strategic retail partnerships.
+S12E08P03	0	1	1	1	saturated market,simple product,limited scalability,potential low investment return.
+S12E10P02	0	1	1	1	niche market,unclear demand,high risk,investor hesitation
+S12E10P03	0	0	1	1	niche market,product uniqueness,scalability,investor interest,financial return potential
+S12E11P04	1	1	1	1	trending market,unique product,appealing branding,positive shark reactions,health-conscious angle,experienced entrepreneurs.
+S12E12P03	1	1	1	1	social impact,innovative product,safety,youth entrepreneurs,market need,entertainment value
+S12E14P01	1	1	1	1	innovative product,large market potential,high entertainment value,strong pitch presentation,product demonstration
+S12E14P04	1	1	1	1	family business,unique product,demonstrated demand,diverse application,health conscious,entertainment value
+S12E15P01	1	1	1	1	innovative solution,broad market appeal,addresses common problem,demonstration effectiveness,added functionality (storage),clear investment ask.
+S12E15P03	1	1	1	1	innovative product,pet industry growth,reasonable valuation,clear problem and solution,scalable opportunity.
+S12E15P04	1	1	1	1	innovative product,educational value,large market potential,engaging pitch,strong emotional appeal
+S12E16P02	0	1	1	1	saturated market,lack of innovation,high valuation,unclear financials
+S12E16P04	1	0	1	1	problem and solution,market potential,innovative product,parental need,health and safety concerns
+S12E20P01	0	0	1	1	lack of professionalism,unclear business value,insufficient pitch details,high valuation.
+S12E20P03	1	1	1	1	practical solution,large target market,clear problem identification,appealing product demonstration,reasonable valuation.
+S12E21P03	1	1	1	0	innovative product,relatable problem,engaging presentation,practical solution,clear market need.
+S12E22P01	0	1	1	1	niche market,high valuation,limited scalability,investor interest
+S12E22P03	0	0	1	0	niche market,unclear financials,high valuation,entertainment-focused pitch.
+S12E23P02	1	1	1	0	health trend,customizable product,dietary inclusivity,clear problem and solution,engaging presentation,strong market potential.
+S12E25P02	1	1	1	1	unique product,growing coffee market,sustainable practices,cultural appeal,simple use.
+S12E25P03	0	0	1	1	niche product,unclear market size,personal story focus,lack of financial details.
