@@ -1,4 +1,4 @@
-# GNN-and-LLM-Insights-Multimodal-Cues-and-Gender-Disparities-in-Video-Conversations
+# GNN and LLM Insights Multimodal Cues and Gender Disparities in Video Conversations
 
 # Overview
 As video content on online platforms continues to grow, understanding the nuanced aspects of interpersonal communication becomes essential—especially when it comes to uncovering gender bias in multimodal interactions. Our study investigates how visual, vocal, and verbal cues interact during video conversations and whether these cues are perceived differently based on gender.
